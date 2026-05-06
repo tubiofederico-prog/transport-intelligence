@@ -1,0 +1,12 @@
+.git
+.gitignore
+node_modules
+npm-debug.log
+.env
+.env.local
+.DS_Store
+*.log
+README.md
+PROYECTO.md
+SETUP_GITHUB.md
+.vscode
